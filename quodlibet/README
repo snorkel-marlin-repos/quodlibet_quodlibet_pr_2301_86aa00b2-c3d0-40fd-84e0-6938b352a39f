@@ -1,0 +1,18 @@
+Ex Falso / Quod Libet - A Music Library/Editor/Player
+=====================================================
+
+Quod Libet is a music management program. It provides several different
+ways to view your audio library, as well as support for Internet radio and
+audio feeds. It has extremely flexible metadata tag editing and searching
+capabilities.
+
+Ex Falso is a tag editor with the same tag editing interface as Quod Libet.
+
+
+For information on how to build/install/test Quod Libet check out
+
+https://quodlibet.readthedocs.org/en/latest/development/overview.html
+
+
+.. image:: https://travis-ci.org/quodlibet/quodlibet.svg?branch=master
+    :target: https://travis-ci.org/quodlibet/quodlibet
