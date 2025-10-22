@@ -80,6 +80,7 @@ INITIAL = {
             "~people\t<~year|[b][i]<~year>[/i][/b] - ><album>",
         "pane_selection": "", # selected pane values
         "pane_wide_mode": "0", # browser orientation
+        "equal_pane_width": "true", # equal pane width in paned browser
         "background": "", # "global" filter for SearchBar
         "albums": "", # album list
         "album_sort": "0", # album sorting mode, default is title
@@ -145,9 +146,6 @@ INITIAL = {
 
         # the UI language to use, empty means system default
         "language": "",
-
-        # the pattern for the main window title
-        "window_title_pattern": "~title~version~~people",
     },
     "rename": {
         "spaces": "false",
